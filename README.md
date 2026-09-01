@@ -16,6 +16,6 @@ A **API Connect** é uma solução back-end desenvolvida como um Produto Mínimo
 ## ⚙️ Como Executar o Projeto Localmente
 
 ### 1. Clonar o repositório
-```bash
-git clone [https://github.com/SEU_USUARIO/api-connect-jonatas-oliveira.git](https://github.com/SEU_USUARIO/api-connect-jonatas-oliveira.git)
+
+git clone https://github.com/JhowBraian/api-connect-jonatas-oliveira.git
 cd api-connect-jonatas-oliveira
